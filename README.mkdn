@@ -1,0 +1,22 @@
+# NAME
+
+HTML::WikiConverter::FreeStyleWiki -
+
+# SYNOPSIS
+
+    use HTML::WikiConverter::FreeStyleWiki;
+
+# DESCRIPTION
+
+HTML::WikiConverter::FreeStyleWiki is
+
+# AUTHOR
+
+Yusuke Watase <ywatase@gmail.com>
+
+# SEE ALSO
+
+# LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
